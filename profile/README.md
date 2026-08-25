@@ -4,14 +4,17 @@ Xpounder builds open infrastructure for governed use of AI.
 
 ## Hormuz
 
-[Hormuz](https://github.com/Xpounder-com/hormuz) is being prepared as a public
-open-source alpha: an AI gateway that lets organizations apply policy, model
-routing, pre-egress redaction, and content-free usage and cost evidence while
-employees keep using Codex and Claude Code.
+[Hormuz](https://github.com/Xpounder-com/hormuz) is our public open-source AI
+gateway. It lets organizations apply policy, model routing, pre-egress
+redaction, and content-free usage and cost evidence while employees keep using
+Codex and Claude Code.
 
-The first public release is an alpha for developer evaluation. It is not an
+The project is currently a developer-focused public alpha. It is suitable for
+evaluation, local development, and early integration work; it is not an
 enterprise-readiness, high-availability, or managed-service claim.
 
-Once the audited repository is public, start with its five-minute provider-free
-demo, then connect your own OpenAI or Anthropic provider credential through the
-gateway.
+[Try the provider-free gateway demo](https://github.com/Xpounder-com/hormuz#try-the-real-gateway-without-a-provider-account),
+then connect your own OpenAI or Anthropic provider credential through Hormuz.
+See the project's [documentation](https://github.com/Xpounder-com/hormuz/tree/main/docs),
+[contribution guide](https://github.com/Xpounder-com/hormuz/blob/main/CONTRIBUTING.md),
+and [security policy](https://github.com/Xpounder-com/hormuz/blob/main/SECURITY.md).
